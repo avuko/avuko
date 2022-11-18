@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on https://github.com/avuko/kathe
 - 💬 Ask me about coffee 
-- 📫 How to reach me: <a rel="me" href="https://infosec.exchange/@avuko">infosec.exchange</a>
+- 📫 How to reach me: <a rel="me" rel="nofollow" href="https://infosec.exchange/@avuko">infosec.exchange/@avuko</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coffee is a psychoactive drug.
