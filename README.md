@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on learning Rust while (re)building https://github.com/kathe
+- 🔭 I’m currently working on learning Rust while (re)building https://github.com/avuko/kathe
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on https://github.com/kathe
+- 👯 I’m looking to collaborate on https://github.com/avuko/kathe
 - 🤔 I’m looking for help with 
 - 💬 Ask me about coffee 
 - 📫 How to reach me: <a rel="me" href="https://infosec.exchange/@avuko">infosec.exchange</a>
